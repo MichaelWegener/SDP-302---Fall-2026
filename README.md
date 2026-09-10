@@ -1,1 +1,1 @@
-# SDP-302---Fall-2026
+Welcome! This repository serves as the official companion codebase for SDP 302 (Fall 2026). Here, you will find interactive Python scripts, Jupyter notebooks, and empirical datasets designed to ground theoretical concepts in practical analysis.
