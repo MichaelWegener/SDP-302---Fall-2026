@@ -1,0 +1,61 @@
+# ==============================================================================
+# DATASET ATTRIBUTION AND SOURCE METADATA
+# ==============================================================================
+# Title: U.S. Major Sector Total Factor Productivity and Input Measures
+# Private Business and Private Nonfarm Business – March 19, 2026
+# Source: U.S. Bureau of Labor Statistics (BLS)
+# Program: Multifactor Productivity (MFP) / Total Factor Productivity Program
+# Access Date: 2026-10-07
+# Base Year / Index: 2017 = 100.000
+#
+# VARIABLE DEFINITIONS:
+# - Real value-added output: Sectoral real output measured at constant prices.
+# - Capital input: Flow of aggregate services derived from physical capital assets.
+# - Labor input: Quality-adjusted labor input (Hours Worked x Labor Composition).
+#
+# CITATION & LINK:
+# Source Link: https://www.bls.gov/productivity/tables/
+# Citation: U.S. Bureau of Labor Statistics. "Total Factor Productivity and Related Measures." 
+#           U.S. Department of Labor. Accessed October 2026.
+# ==============================================================================
+
+Year,Real value-added output,Capital input,Labor input
+1987,41.809,35.290,65.941
+1988,43.720,36.673,68.088
+1989,45.312,38.114,70.274
+1990,45.984,39.490,70.572
+1991,45.739,40.636,69.446
+1992,47.588,41.772,69.814
+1993,49.087,43.147,72.381
+1994,51.345,44.843,75.506
+1995,53.147,46.899,77.547
+1996,55.552,49.200,79.764
+1997,58.405,51.942,82.620
+1998,61.726,55.241,84.832
+1999,65.335,58.904,86.673
+2000,68.175,62.664,88.105
+2001,68.702,65.691,86.666
+2002,69.874,67.919,84.928
+2003,72.071,69.877,84.857
+2004,75.199,71.782,86.220
+2005,78.163,74.261,87.852
+2006,80.847,77.023,90.228
+2007,82.760,79.644,91.372
+2008,81.995,81.965,89.953
+2009,79.093,82.898,84.015
+2010,81.710,84.014,84.320
+2011,83.412,85.382,86.773
+2012,86.270,87.069,89.359
+2013,88.553,89.074,91.390
+2014,91.602,91.598,93.819
+2015,95.122,94.329,96.570
+2016,97.093,97.156,98.105
+2017,100.000,100.000,100.000
+2018,103.430,103.013,102.622
+2019,106.754,106.134,103.838
+2020,103.923,109.124,98.420
+2021,111.904,111.575,102.999
+2022,114.681,114.461,107.395
+2023,118.563,117.549,108.513
+2024,122.070,120.701,109.064
+2025,125.260,123.979,110.217
