@@ -1,24 +1,23 @@
 # ==============================================================================
-#
-# Title: Penn World Table (PWT) Series for Pakistan: Real Output, Capital Stock, and Labor Input Dynamics
-#
-# Description: Standardised macroeconomic time-series for Pakistan used for Cobb-Douglas production function
-# estimation and growth accounting. Key variables include output-side real GDP (rgdpo and rgdpna), capital 
-# stock (rnna), and labor force (emp).
-#
-# PRIMARY SOURCE METADATA
-#
-# Database: Penn World Table (PWT), Version 10.0 / 11.0
-#
+# DATASET ATTRIBUTION AND SOURCE METADATA
+# ==============================================================================
+# Title: Penn World Table (PWT) Macroeconomic Series for Pakistan
+# Source: Penn World Table (PWT), Version 10.0 / 11.0
 # Publisher: Groningen Growth and Development Centre (GGDC), University of Groningen
+# Access Date: 2026-10-07
 #
-# Access Link: https://www.rug.nl/ggdc/productivity/pwt/
+# VARIABLE DEFINITIONS & UNITS:
+# - year: Calendar observation year (1950 - 2023).
+# - hc: Human capital index per person, based on years of schooling (Barro/Lee) and returns to education.
+# - emp: Number of persons engaged / total employed labor force (in millions).
+# - rgdpna: Real GDP at constant 2017 national prices (in millions of 2017 US$).
+# - rgdpo: Output-side real GDP at chained PPPs (in millions of 2017 US$).
+# - rnna: Capital stock at constant 2017 national prices (in millions of 2017 US$).
 #
-# CITATION
-#
-# Formal Citation: Feenstra, R. C., Inklaar, R., & Timmer, M. P. (2015). The Next Generation of the Penn World       
+# CITATION & LINK:
+# Source Link: https://www.rug.nl/ggdc/productivity/pwt/
+# Citation: Feenstra, R. C., Inklaar, R., & Timmer, M. P. (2015). The Next Generation of the Penn World       
 # Table. American Economic Review, 105(10), 3150–3182. https://doi.org/10.1257/aer.20130954
-#
 # ==============================================================================
 
 year,hc,emp,rgdpna,rgdpo,rnna
