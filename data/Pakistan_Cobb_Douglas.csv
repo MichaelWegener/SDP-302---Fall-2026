@@ -4,7 +4,7 @@
 #
 # Description: Standardised macroeconomic time-series for Pakistan used for Cobb-Douglas production function
 # estimation and growth accounting. Key variables include output-side real GDP (rgdpo and rgdpna), capital 
-# stock (rnna), labor force (emp), and labor share (labsh).
+# stock (rnna), and labor force (emp).
 #
 # PRIMARY SOURCE METADATA
 #
