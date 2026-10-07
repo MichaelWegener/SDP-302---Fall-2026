@@ -1,10 +1,10 @@
-﻿# ==============================================================================
+﻿#==============================================================================
 #
-# Title: Penn World Table (PWT) Series for Pakistan: Real Output, Capital Stock, and Labor Input Dynamics
+#Title: Penn World Table (PWT) Series for Pakistan: Real Output Capital Stock and Labor Input Dynamics
 #
-# Description: Standardised macroeconomic time-series for Pakistan used for Cobb-Douglas production function
-# estimation and growth accounting. Key variables include output-side real GDP (rgdpo and rgdpna), capital 
-# stock (rnna), and labor force (emp).
+#Description: Standardised macroeconomic time-series for Pakistan used for Cobb-Douglas production function
+#estimation and growth accounting. Key variables include output-side real GDP (rgdpo and rgdpna) capital 
+#stock (rnna), and labor force (emp).
 #
 # PRIMARY SOURCE METADATA
 #
